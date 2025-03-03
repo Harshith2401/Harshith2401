@@ -11,8 +11,7 @@ I'm currently pursuing my **B.Tech in Information Technology** at **Anurag Unive
 
 ## 💼 Experience  
 ### 🔹 Research & Development Intern at ENCRYPTA (Oct - Dec 2024)  
-- Worked on **secure communication systems** and implemented **enhancements to improve user experience**.  
-- Focused on **data encryption techniques** to strengthen cybersecurity measures.  
+- Worked on **secure communication systems** and implemented **enhancements to improve user experience**.
 
 ## 🎓 Projects  
 ### 🔹 [AI Mental Health Therapist](#) (Python, Machine Learning)  
